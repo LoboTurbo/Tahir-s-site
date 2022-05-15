@@ -1,0 +1,45 @@
+body {
+  background-color: #FFE59D;
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+  margin-top: 0;
+}
+
+h1 {
+  font-family: 'Macondo', cursive;
+}
+
+h2 {
+  font-family: 'Zen Loop', cursive;
+}
+
+.top-cloud {
+  position: absolute;
+  top:7%;
+  right: 7%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 5%;
+}
+
+.mountain {
+  margin: 1% auto;
+}
+
+.name {
+  margin:5% auto;
+}
+
+.top-container {
+  position: relative;
+  margin: auto auto 5% auto;
+  padding-top: 1%;
+}
+/* .middle-container {
+  position: relative;
+  top: 50%;
+
+
+} */
